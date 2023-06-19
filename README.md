@@ -84,7 +84,6 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichaelDulin&theme=sunset-gradient&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MichaelDulin&show_icons=true&count_private=true&hide_border=true" />
   </div>
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=MichaelDulin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />

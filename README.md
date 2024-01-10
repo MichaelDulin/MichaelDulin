@@ -1,17 +1,4 @@
-### <div align="center">I'm Michael, a full-stack developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on [Console Quest](https://github.com/Console-Quest/ConsoleQuestPhaser)  
-  
-
-- 🌱 I’m currently learning Typescript and mobile development  
-  
-
-- ❓ Ask me about anything related to MERN stack and web development  
-  
-
-- ⚡ Fun fact: I have lived in 3 different countries  
-  
+### <div align="center">I'm Michael, a full-stack developer 👨‍💻 </div>    
 
 <br/>  
 
